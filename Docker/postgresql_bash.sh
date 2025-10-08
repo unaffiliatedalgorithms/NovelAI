@@ -2,7 +2,7 @@
 
 dbdir=/book/database
 # replace with your wifi subnet
-subnet=192.168.178.0/24
+subnet=192.168.1.0/24
 # or the internet unsafe version
 # subnet=0.0.0.0/0
 
